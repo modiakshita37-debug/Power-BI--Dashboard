@@ -47,7 +47,7 @@ To visualize loan approval data and generate actionable business insights.
 
 ## Power BI Dashboard Screenshot
 
-![Power BI Dashboard](Dashboard.png)
+![Power BI Dashboard](Dashboard.jpeg)
 
 ---
 
